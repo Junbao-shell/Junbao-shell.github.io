@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Design Bloe Web Page By Jekyll
 author: Jonathan
 category: SwiftUI
